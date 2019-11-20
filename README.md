@@ -9,7 +9,7 @@
 
 ### 构建
 ```bash
-docker build -f Dockerfile -t docker-timezone-sample:latest .
+$ docker build -f Dockerfile -t docker-timezone-sample:latest .
 ```
 ### 查看时区
 ``` bash
